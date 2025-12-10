@@ -1,0 +1,11 @@
+
+body{
+    background-image: url(/images/home/slider.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.miCarousel{
+    padding-top: 6%;
+}
+
